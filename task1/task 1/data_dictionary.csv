@@ -1,0 +1,6 @@
+column_name,data_type,non_null_count,null_count,null_pct,description
+sepal_length,float64,150,0,0.0,Length of sepal (cm)
+sepal_width,float64,150,0,0.0,Width of sepal (cm)
+petal_length,float64,150,0,0.0,Length of petal (cm)
+petal_width,float64,150,0,0.0,Width of petal (cm)
+species,int64,150,0,0.0,Iris species label
