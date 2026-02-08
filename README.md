@@ -38,7 +38,7 @@ Link:  [Exploratory Data Analysis (EDA) & Business Intelligence](https://github.
               statistical methods to add rigor and validate key findings
     Tools: numpy, pandas, matplotlib, seaborn, scipy
 
-  Links: [Data Storytelling & Statistical Validation](https://github.com/AmitRaj94/ApexPlanet-Data-Science/tree/09bae0583d6a88447b98b2626ea20f777c48c20d/task%204)
+  Links: [Data Storytelling & Statistical Validation](https://github.com/Code-with-Awnish/Apexplanet-Data-Science/tree/782789e760e315684ff2f580c01ba9c3842e1129/task%204)
 
 ## **Key Skills Demonstrated**
         *  Data Cleaning & Wrangling
