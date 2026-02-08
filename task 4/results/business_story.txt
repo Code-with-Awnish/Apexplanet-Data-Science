@@ -1,0 +1,23 @@
+
+BUSINESS QUESTION:
+Did the new website layout increase conversion rate?
+
+HYPOTHESIS:
+H0: Conversion rate (Control) = Conversion rate (Treatment)
+H1: Conversion rate (Treatment) > Conversion rate (Control)
+
+KEY FINDINGS:
+- Control Conversion Rate: 8.92%
+- Treatment Conversion Rate: 13.62%
+- Conversion Lift: 4.71%
+
+STATISTICAL VALIDATION:
+- Z-score: 3.32
+- P-value: 0.0009
+- 95% Confidence Interval: (1.93%, 7.48%)
+
+BUSINESS DECISION:
+REJECT NULL HYPOTHESIS
+
+RECOMMENDATION:
+Roll out the new website layout to all users.
